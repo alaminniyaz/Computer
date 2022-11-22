@@ -1,0 +1,9 @@
+body{
+    font-family: 'Atma', cursive;
+    font-family: 'Baloo Da 2', cursive;
+    scroll-behavior: smooth;
+}
+
+.course{
+   padding-top: 100px;
+}
